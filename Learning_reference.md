@@ -1,7 +1,7 @@
-Computer Vision:
-[link](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
-[link](https://www.kaggle.com/nih-chest-xrays/data)
-Lip reading - https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W12/97/2019/isprs-archives-XLII-2-W12-97-2019.pdf
+Computer Vision: <br>
+https://www.coursera.org/learn/convolutional-neural-networks/home/welcome <br>
+https://www.kaggle.com/nih-chest-xrays/data <br>
+Lip reading - https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W12/97/2019/isprs-archives-XLII-2-W12-97-2019.pdf <br>
 Lip reading - https://arxiv.org/pdf/1905.02540.pdf
 Lip reading - https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11041/1104114/Contour-mapping-for-speaker-independent-lip-reading-system/10.1117/12.2522936.full?SSO=1
 Lip reading - https://medium.com/mlreview/multi-modal-methods-part-one-49361832bc7e
