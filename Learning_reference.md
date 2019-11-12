@@ -11,6 +11,7 @@ https://www.geeksforgeeks.org/face-detection-using-python-and-opencv-with-webcam
 https://github.com/vschs007/flask-realtime-face-detection-opencv-python <br>
 https://github.com/AdrianHsu/S2VT-seq2seq-video-captioning-attention <br>
 https://www.youtube.com/watch?v=488BKXyDQWU <br>
+https://caphuuquan.blogspot.com/2017/04/building-simple-sudoku-solver-from.html <br>
 https://www.freecodecamp.org/news/how-to-play-and-win-sudoku-using-math-and-machine-learning-to-solve-every-sudoku-puzzle/ <br>
 https://towardsdatascience.com/training-a-neural-network-to-detect-gestures-with-opencv-in-python-e09b0a12bdf1 <br>
 
