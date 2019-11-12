@@ -25,3 +25,6 @@ https://becominghuman.ai/understanding-and-building-generative-adversarial-netwo
 Reinforcement learning: <br>
 https://adventuresinmachinelearning.com/reinforcement-learning-tensorflow/ <br>
 
+Spark <br>
+https://www.analyticsvidhya.com/blog/2019/10/pyspark-for-beginners-first-steps-big-data-analysis/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29 <br>
+
