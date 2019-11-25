@@ -28,3 +28,9 @@ https://adventuresinmachinelearning.com/reinforcement-learning-tensorflow/ <br>
 Spark <br>
 https://www.analyticsvidhya.com/blog/2019/10/pyspark-for-beginners-first-steps-big-data-analysis/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29 <br>
 
+Research <br>
+https://medium.com/vantageai/how-youtube-is-recommending-your-next-video-7e5f1a6bd6d9 <br>
+https://dl.acm.org/citation.cfm?id=3346997 <br>
+https://www.kdd.org/kdd2018/accepted-papers/view/modeling-task-relationships-in-multi-task-learning-with-multi-gate-mixture- <br>
+https://ai.googleblog.com/2016/06/wide-deep-learning-better-together-with.html <br>
+
